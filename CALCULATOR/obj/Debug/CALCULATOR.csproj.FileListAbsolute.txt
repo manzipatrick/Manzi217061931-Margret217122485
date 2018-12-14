@@ -1,0 +1,27 @@
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\bin\Debug\Menu.exe.config
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\bin\Debug\Menu.exe
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\bin\Debug\Menu.pdb
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\CALCULATOR.csprojAssemblyReference.cache
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form1.resources
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form2.resources
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form3.resources
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form4image.resources
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form5.resources
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.cache
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\Menu.exe
+C:\Users\Teacher\Desktop\html work\CALCUTATOR\CALCULATOR\obj\Debug\Menu.pdb
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\bin\Debug\Menu.exe.config
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\Menu.exe
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\Menu.pdb
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\bin\Debug\Menu.exe
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\bin\Debug\Menu.pdb
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\CALCULATOR.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form1.resources
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form2.resources
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form3.resources
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form4image.resources
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Form5.resources
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\user\Desktop\CALCUTATOR\CALCULATOR\obj\Debug\CALCULATOR.csproj.GenerateResource.Cache
